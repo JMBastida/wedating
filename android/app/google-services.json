@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083205054982",
+    "firebase_url": "https://wedating-a3af5.firebaseio.com",
+    "project_id": "wedating-a3af5",
+    "storage_bucket": "wedating-a3af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083205054982:android:bd616b10acc7c543",
+        "android_client_info": {
+          "package_name": "com.citas.dates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083205054982-d7oi3o7gb4hn46h24te5n2m7gvojq8jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citas.dates",
+            "certificate_hash": "5d5ac264a71b462bf31d6ee00ed71a678a020938"
+          }
+        },
+        {
+          "client_id": "1083205054982-0osvh5ibnqm8tljrkou5mluqo27mhp58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0362ywcy482F5M3U2XOI0tQq7SC-Zovg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083205054982-0osvh5ibnqm8tljrkou5mluqo27mhp58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
