@@ -4,7 +4,7 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-The project is under ccpntruction
+The project is under ccpntruction, the objective its a free dating app with firebase functions pairment(geolocation,sex orientation,few more), at the same time firebase firestore for BD, in the app side, im using flutter with provider management and routes
 
 ### Prerequisites
 
@@ -21,7 +21,7 @@ For android and ios first cconfigure firebase with respective files
 ## Built With
 
 * [Flutter](https://flutter.dev) - The web framework used
-* [Firebase](https://firebase.google.com) - Dependency Management
+* [Firebase](https://firebase.google.com) - Backend Management
 
 ## Authors
 
