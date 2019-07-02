@@ -1,10 +1,10 @@
 # Wedating
 
-One Paragraph of project description goes here
+The main objective its a free dating app with firebase functions pairment(geolocation,sex orientation,few more), at the same time firebase firestore for BD, in the app side, im using flutter with provider management and routes.
 
 ## Getting Started
 
-The project is under ccpntruction, the objective its a free dating app with firebase functions pairment(geolocation,sex orientation,few more), at the same time firebase firestore for BD, in the app side, im using flutter with provider management and routes
+The project is under ccpntruction.
 
 ### Prerequisites
 
